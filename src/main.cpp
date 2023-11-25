@@ -1,7 +1,4 @@
 #include <Arduino.h>
-#include <ESP8266WiFi.h>
-
-// wifi connection
 
 int ledpin = 2; // ledpin
 int rainpin = 5; // rainsensor pin D1
